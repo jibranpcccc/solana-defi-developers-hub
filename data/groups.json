@@ -278,7 +278,7 @@
     "category": "DEX Analytics",
     "memberCount": "45,000+ members",
     "description": "Official community for DexScreener users, multi-chain chart alerts, API integrations, and token analytics.",
-    "joinUrl": "https://discord.gg/dexscreener",
+    "joinUrl": "https://t.me/dexscreener",
     "tags": [
       "dexscreener",
       "discord",
@@ -477,12 +477,12 @@
   },
   {
     "id": "solana-defi-rust-developers-hub-discord-29",
-    "title": "Ethereum Core Discord Server",
+    "title": "Rust Programming Language Community Discord",
     "platform": "Discord",
     "category": "Ethereum Research",
     "memberCount": "240,000+ members",
     "description": "Official community Discord server for Ethereum developers, all-core-dev meetings, and smart contract researchers.",
-    "joinUrl": "https://discord.gg/ethereum",
+    "joinUrl": "https://discord.gg/rust-lang-community",
     "tags": [
       "ethereum",
       "discord",
