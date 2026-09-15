@@ -1,5 +1,24 @@
 [
   {
+    "id": "solana-defi-developers-hub-reddit-20260915-1",
+    "title": "r/optimism Collective & RetroPGF",
+    "platform": "Reddit",
+    "category": "Superchain",
+    "memberCount": "35,000+ members",
+    "description": "Optimism Superchain scaling, retroactive public goods funding rounds, governance voting, and OP stack modularity.",
+    "joinUrl": "https://www.reddit.com/r/optimism/",
+    "tags": [
+      "optimism",
+      "superchain",
+      "governance",
+      "retroactive"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-15"
+  },
+  {
     "id": "solana-defi-developers-hub-reddit-20260914-1",
     "title": "r/arbitrum Layer 2 Ecosystem",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-14"
   },
   {
