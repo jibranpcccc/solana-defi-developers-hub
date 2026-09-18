@@ -4,10 +4,17 @@
     <title>Solana DeFi &amp; Rust Developers Hub</title>
     <link>https://solana-defi-developers-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Tue, 15 Sep 2026 06:02:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 06:16:22 GMT</lastBuildDate>
     <atom:link href="https://solana-defi-developers-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                        <item>
+                            <item>
+      <title>📅 Today's Fresh Pick: r/zksync Zero-Knowledge Scaling (Reddit)</title>
+      <link>https://www.reddit.com/r/zksync/</link>
+      <guid isPermaLink="false">https://solana-defi-developers-hub.vercel.app/#solana-defi-developers-hub-reddit-20260918-1-2026-09-18</guid>
+      <pubDate>Fri, 18 Sep 2026 06:16:22 GMT</pubDate>
+      <description>Newly verified community added to Solana DeFi &amp; Rust Developers Hub: Discussions on zkSync Era, native account abstraction, zero-knowledge proofs, and ecosystem dApp activity.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/optimism Collective &amp; RetroPGF (Reddit)</title>
       <link>https://www.reddit.com/r/optimism/</link>
       <guid isPermaLink="false">https://solana-defi-developers-hub.vercel.app/#solana-defi-developers-hub-reddit-20260915-1-2026-09-15</guid>

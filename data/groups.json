@@ -1,5 +1,24 @@
 [
   {
+    "id": "solana-defi-developers-hub-reddit-20260918-1",
+    "title": "r/zksync Zero-Knowledge Scaling",
+    "platform": "Reddit",
+    "category": "ZK Rollups",
+    "memberCount": "38,000+ members",
+    "description": "Discussions on zkSync Era, native account abstraction, zero-knowledge proofs, and ecosystem dApp activity.",
+    "joinUrl": "https://www.reddit.com/r/zksync/",
+    "tags": [
+      "zksync",
+      "zkrollups",
+      "ethereum",
+      "airdrop"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-18"
+  },
+  {
     "id": "solana-defi-developers-hub-reddit-20260915-1",
     "title": "r/optimism Collective & RetroPGF",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-15"
   },
   {
