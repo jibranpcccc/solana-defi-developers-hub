@@ -4,10 +4,17 @@
     <title>Solana DeFi &amp; Rust Developers Hub</title>
     <link>https://solana-defi-developers-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Fri, 18 Sep 2026 06:16:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 06:02:18 GMT</lastBuildDate>
     <atom:link href="https://solana-defi-developers-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                            <item>
+                                <item>
+      <title>📅 Today's Fresh Pick: r/LayerZero Cross-Chain Protocol (Reddit)</title>
+      <link>https://www.reddit.com/r/LayerZero/</link>
+      <guid isPermaLink="false">https://solana-defi-developers-hub.vercel.app/#solana-defi-developers-hub-reddit-20260919-1-2026-09-19</guid>
+      <pubDate>Sat, 19 Sep 2026 06:02:18 GMT</pubDate>
+      <description>Newly verified community added to Solana DeFi &amp; Rust Developers Hub: LayerZero omnichain messaging, Stargate bridge routing, cross-chain OFT transfers, and protocol activity.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/zksync Zero-Knowledge Scaling (Reddit)</title>
       <link>https://www.reddit.com/r/zksync/</link>
       <guid isPermaLink="false">https://solana-defi-developers-hub.vercel.app/#solana-defi-developers-hub-reddit-20260918-1-2026-09-18</guid>
