@@ -4,10 +4,17 @@
     <title>Solana DeFi &amp; Rust Developers Hub</title>
     <link>https://solana-defi-developers-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sun, 20 Sep 2026 06:03:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 06:02:17 GMT</lastBuildDate>
     <atom:link href="https://solana-defi-developers-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                    <item>
+                                        <item>
+      <title>📅 Today's Fresh Pick: r/Starknet ZK-STARK Ecosystem (Reddit)</title>
+      <link>https://www.reddit.com/r/starknet/</link>
+      <guid isPermaLink="false">https://solana-defi-developers-hub.vercel.app/#solana-defi-developers-hub-reddit-20260921-1-2026-09-21</guid>
+      <pubDate>Mon, 21 Sep 2026 06:02:17 GMT</pubDate>
+      <description>Newly verified community added to Solana DeFi &amp; Rust Developers Hub: Cairo programming, Starknet appchains, STRK governance voting, and ecosystem dApp testnets.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/berachain Proof-of-Liquidity (Reddit)</title>
       <link>https://www.reddit.com/r/berachain/</link>
       <guid isPermaLink="false">https://solana-defi-developers-hub.vercel.app/#solana-defi-developers-hub-reddit-20260920-1-2026-09-20</guid>
