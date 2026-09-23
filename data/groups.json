@@ -1,5 +1,24 @@
 [
   {
+    "id": "solana-defi-developers-hub-reddit-20260923-1",
+    "title": "r/cosmosnetwork Interchain Hub",
+    "platform": "Reddit",
+    "category": "Interchain",
+    "memberCount": "110,000+ members",
+    "description": "Cosmos IBC staking airdrops (ATOM, TIA, OSMO), governance proposals, and sovereign appchains.",
+    "joinUrl": "https://www.reddit.com/r/cosmosnetwork/",
+    "tags": [
+      "cosmos",
+      "atom",
+      "celestia",
+      "airdrops"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-23"
+  },
+  {
     "id": "solana-defi-developers-hub-reddit-20260922-1",
     "title": "r/Base Coinbase L2 Ecosystem",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-22"
   },
   {
