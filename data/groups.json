@@ -1,5 +1,24 @@
 [
   {
+    "id": "solana-defi-developers-hub-reddit-20260924-1",
+    "title": "r/ethereum Core Technology",
+    "platform": "Reddit",
+    "category": "Ethereum Core",
+    "memberCount": "3,200,000+ members",
+    "description": "Ethereum roadmap, proto-danksharding, blob transactions, and layer-2 scaling milestones.",
+    "joinUrl": "https://www.reddit.com/r/ethereum/",
+    "tags": [
+      "ethereum",
+      "l2",
+      "danksharding",
+      "blockchain"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-24"
+  },
+  {
     "id": "solana-defi-developers-hub-reddit-20260923-1",
     "title": "r/cosmosnetwork Interchain Hub",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-23"
   },
   {
