@@ -1,5 +1,24 @@
 [
   {
+    "id": "solana-defi-developers-hub-discord-20260925-1",
+    "title": "LayerZero Official Discord Server",
+    "platform": "Discord",
+    "category": "Interoperability",
+    "memberCount": "180,000+ members",
+    "description": "Official Discord server for LayerZero community, technical support, omnichain announcements, and developer tools.",
+    "joinUrl": "https://discord.gg/layerzero",
+    "tags": [
+      "layerzero",
+      "discord",
+      "omnichain",
+      "crypto"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-25"
+  },
+  {
     "id": "solana-defi-developers-hub-reddit-20260924-1",
     "title": "r/ethereum Core Technology",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-24"
   },
   {
