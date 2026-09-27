@@ -1,5 +1,24 @@
 [
   {
+    "id": "solana-defi-developers-hub-discord-20260927-1",
+    "title": "zkSync Official Discord Server",
+    "platform": "Discord",
+    "category": "ZK Rollups",
+    "memberCount": "220,000+ members",
+    "description": "Official Discord community for zkSync, testnet announcements, developer questions, and ecosystem highlights.",
+    "joinUrl": "https://discord.gg/zksync",
+    "tags": [
+      "zksync",
+      "discord",
+      "testnet",
+      "rollups"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-27"
+  },
+  {
     "id": "solana-defi-developers-hub-discord-20260925-1",
     "title": "LayerZero Official Discord Server",
     "platform": "Discord",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-25"
   },
   {
