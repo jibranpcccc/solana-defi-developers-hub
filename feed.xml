@@ -4,10 +4,17 @@
     <title>Solana DeFi &amp; Rust Developers Hub</title>
     <link>https://solana-defi-developers-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sun, 27 Sep 2026 06:02:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 06:02:40 GMT</lastBuildDate>
     <atom:link href="https://solana-defi-developers-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                            <item>
+                                                                <item>
+      <title>📅 Today's Fresh Pick: Berachain Official Discord (Discord)</title>
+      <link>https://discord.gg/berachain</link>
+      <guid isPermaLink="false">https://solana-defi-developers-hub.vercel.app/#solana-defi-developers-hub-discord-20260929-1-2026-09-29</guid>
+      <pubDate>Tue, 29 Sep 2026 06:02:40 GMT</pubDate>
+      <description>Newly verified community added to Solana DeFi &amp; Rust Developers Hub: Official Discord server for the Bera community, testnet faucets, validator instructions, and ecosystem dApps.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: zkSync Official Discord Server (Discord)</title>
       <link>https://discord.gg/zksync</link>
       <guid isPermaLink="false">https://solana-defi-developers-hub.vercel.app/#solana-defi-developers-hub-discord-20260927-1-2026-09-27</guid>
