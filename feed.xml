@@ -4,10 +4,17 @@
     <title>Solana DeFi &amp; Rust Developers Hub</title>
     <link>https://solana-defi-developers-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Mon, 05 Oct 2026 06:02:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 06:02:47 GMT</lastBuildDate>
     <atom:link href="https://solana-defi-developers-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                    <item>
+                                                                                        <item>
+      <title>📅 Today's Fresh Pick: Testnet Tasks &amp; Faucets Telegram (Telegram)</title>
+      <link>https://t.me/testnet_news</link>
+      <guid isPermaLink="false">https://solana-defi-developers-hub.vercel.app/#solana-defi-developers-hub-telegram-20261006-1-2026-10-06</guid>
+      <pubDate>Tue, 06 Oct 2026 06:02:47 GMT</pubDate>
+      <description>Newly verified community added to Solana DeFi &amp; Rust Developers Hub: Real-time updates on active testnet faucets, network configurations, RPC endpoints, and task claim guides.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Crypto Airdrops Alpha Telegram (Telegram)</title>
       <link>https://t.me/cryptoairdrops</link>
       <guid isPermaLink="false">https://solana-defi-developers-hub.vercel.app/#solana-defi-developers-hub-telegram-20261005-1-2026-10-05</guid>
