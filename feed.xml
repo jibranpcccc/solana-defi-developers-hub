@@ -4,10 +4,17 @@
     <title>Solana DeFi &amp; Rust Developers Hub</title>
     <link>https://solana-defi-developers-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sat, 10 Oct 2026 06:02:28 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 06:02:30 GMT</lastBuildDate>
     <atom:link href="https://solana-defi-developers-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                    <item>
+                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: r/stocks Market News (Reddit)</title>
+      <link>https://www.reddit.com/r/stocks/</link>
+      <guid isPermaLink="false">https://solana-defi-developers-hub.vercel.app/#solana-defi-developers-hub-reddit-20261011-1-2026-10-11</guid>
+      <pubDate>Sun, 11 Oct 2026 06:02:30 GMT</pubDate>
+      <description>Newly verified community added to Solana DeFi &amp; Rust Developers Hub: Real-time market discussions, earnings reports, analyst ratings, and macroeconomic trends.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/investing Long Term Wealth (Reddit)</title>
       <link>https://www.reddit.com/r/investing/</link>
       <guid isPermaLink="false">https://solana-defi-developers-hub.vercel.app/#solana-defi-developers-hub-reddit-20261010-1-2026-10-10</guid>
@@ -174,12 +181,6 @@
       <guid isPermaLink="false">https://solana-defi-developers-hub.vercel.app/#solana-defi-developers-hub-discord-20260913-1-2026-09-13</guid>
       <pubDate>Sun, 13 Sep 2026 08:31:05 GMT</pubDate>
       <description>Newly verified community added to Solana DeFi &amp; Rust Developers Hub: Official community Discord server for Ethereum developers, all-core-dev meetings, and smart contract researchers.</description>
-    </item>
-<item>
-      <title>Solana DeFi &amp; Rust Developers Hub Initial Release</title>
-      <link>https://solana-defi-developers-hub.vercel.app/</link>
-      <pubDate>Wed, 09 Sep 2026 06:04:20 GMT</pubDate>
-      <description>Initial collection of verified communities published.</description>
     </item>
   </channel>
 </rss>
