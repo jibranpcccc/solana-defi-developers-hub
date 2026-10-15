@@ -4,10 +4,17 @@
     <title>Solana DeFi &amp; Rust Developers Hub</title>
     <link>https://solana-defi-developers-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Tue, 13 Oct 2026 06:02:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 06:02:35 GMT</lastBuildDate>
     <atom:link href="https://solana-defi-developers-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                            <item>
+                                                                                                                <item>
+      <title>📅 Today's Fresh Pick: r/financialindependence FIRE Hub (Reddit)</title>
+      <link>https://www.reddit.com/r/financialindependence/</link>
+      <guid isPermaLink="false">https://solana-defi-developers-hub.vercel.app/#solana-defi-developers-hub-reddit-20261015-1-2026-10-15</guid>
+      <pubDate>Thu, 15 Oct 2026 06:02:35 GMT</pubDate>
+      <description>Newly verified community added to Solana DeFi &amp; Rust Developers Hub: Community dedicated to Financial Independence, Retire Early (FIRE) strategies, safe withdrawal rates, and frugality.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/personalfinance Money Management (Reddit)</title>
       <link>https://www.reddit.com/r/personalfinance/</link>
       <guid isPermaLink="false">https://solana-defi-developers-hub.vercel.app/#solana-defi-developers-hub-reddit-20261013-1-2026-10-13</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://solana-defi-developers-hub.vercel.app/#solana-defi-developers-hub-reddit-20260914-1-2026-09-14</guid>
       <pubDate>Mon, 14 Sep 2026 06:07:53 GMT</pubDate>
       <description>Newly verified community added to Solana DeFi &amp; Rust Developers Hub: Detailed guides on testnet tasks, bridge volume requirements, governance participation, and retroactive airdrop farming.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/airdrop Verified Token Airdrops (Reddit)</title>
-      <link>https://www.reddit.com/r/airdrop/</link>
-      <guid isPermaLink="false">https://solana-defi-developers-hub.vercel.app/#solana-defi-developers-hub-reddit-20260913-1-2026-09-13</guid>
-      <pubDate>Sun, 13 Sep 2026 14:03:37 GMT</pubDate>
-      <description>Newly verified community added to Solana DeFi &amp; Rust Developers Hub: The primary Reddit community for tracking verified cryptocurrency airdrops, eligibility requirements, and snapshot alerts.</description>
     </item>
   </channel>
 </rss>
