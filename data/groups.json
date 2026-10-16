@@ -1,5 +1,24 @@
 [
   {
+    "id": "solana-defi-developers-hub-reddit-20261016-1",
+    "title": "r/wallstreetbets Alpha & Options",
+    "platform": "Reddit",
+    "category": "Trading",
+    "memberCount": "16,500,000+ members",
+    "description": "High-volatility trading discussions, market momentum plays, options strategies, and viral retail sentiment.",
+    "joinUrl": "https://www.reddit.com/r/wallstreetbets/",
+    "tags": [
+      "wsb",
+      "trading",
+      "options",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-10-16"
+  },
+  {
     "id": "solana-defi-developers-hub-reddit-20261015-1",
     "title": "r/financialindependence FIRE Hub",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-10-15"
   },
   {
