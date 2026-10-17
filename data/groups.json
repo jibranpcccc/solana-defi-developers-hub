@@ -1,5 +1,24 @@
 [
   {
+    "id": "solana-defi-developers-hub-reddit-20261017-1",
+    "title": "r/realestateinvesting Wealth Hub",
+    "platform": "Reddit",
+    "category": "Real Estate",
+    "memberCount": "540,000+ members",
+    "description": "Strategies for rental property acquisition, BRRRR method, commercial syndication, and 1031 tax exchanges.",
+    "joinUrl": "https://www.reddit.com/r/realestateinvesting/",
+    "tags": [
+      "real-estate",
+      "syndications",
+      "investing",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-10-17"
+  },
+  {
     "id": "solana-defi-developers-hub-reddit-20261016-1",
     "title": "r/wallstreetbets Alpha & Options",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-10-16"
   },
   {
