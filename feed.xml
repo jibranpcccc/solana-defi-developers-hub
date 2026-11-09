@@ -4,10 +4,17 @@
     <title>Solana DeFi &amp; Rust Developers Hub</title>
     <link>https://solana-defi-developers-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sun, 08 Nov 2026 06:02:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 06:50:35 GMT</lastBuildDate>
     <atom:link href="https://solana-defi-developers-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                <item>
+                                                                                                                                                                                                    <item>
+      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
+      <link>https://news.ycombinator.com</link>
+      <guid isPermaLink="false">https://solana-defi-developers-hub.vercel.app/#solana-defi-developers-hub-forum-20261027-1-2026-11-09</guid>
+      <pubDate>Mon, 09 Nov 2026 06:50:35 GMT</pubDate>
+      <description>Newly verified community added to Solana DeFi &amp; Rust Developers Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://solana-defi-developers-hub.vercel.app/#solana-defi-developers-hub-forum-20261027-1-2026-11-08</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://solana-defi-developers-hub.vercel.app/#solana-defi-developers-hub-reddit-20261010-1-2026-10-10</guid>
       <pubDate>Sat, 10 Oct 2026 06:02:28 GMT</pubDate>
       <description>Newly verified community added to Solana DeFi &amp; Rust Developers Hub: Discussion on macroeconomics, fundamental equity valuation, indexing strategies, and long-term portfolio allocation.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Ethereum Research Forum (Forum)</title>
-      <link>https://ethresear.ch</link>
-      <guid isPermaLink="false">https://solana-defi-developers-hub.vercel.app/#solana-defi-developers-hub-forum-20261009-1-2026-10-09</guid>
-      <pubDate>Fri, 09 Oct 2026 06:02:41 GMT</pubDate>
-      <description>Newly verified community added to Solana DeFi &amp; Rust Developers Hub: The premier intellectual forum for Ethereum cryptoeconomics, zero-knowledge proofs, and scaling proposals.</description>
     </item>
   </channel>
 </rss>
