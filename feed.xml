@@ -4,10 +4,17 @@
     <title>Solana DeFi &amp; Rust Developers Hub</title>
     <link>https://solana-defi-developers-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Wed, 18 Nov 2026 06:02:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 07:23:50 GMT</lastBuildDate>
     <atom:link href="https://solana-defi-developers-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                <item>
+      <title>📅 Today's Fresh Pick: r/solana High-Speed Blockchain (Reddit)</title>
+      <link>https://www.reddit.com/r/solana/</link>
+      <guid isPermaLink="false">https://solana-defi-developers-hub.vercel.app/#solana-defi-rust-developers-hub-reddit-1-2026-11-18</guid>
+      <pubDate>Wed, 18 Nov 2026 07:23:50 GMT</pubDate>
+      <description>Newly verified community added to Solana DeFi &amp; Rust Developers Hub: The central Reddit community for Solana architecture, ecosystem updates, DEX developments, and high-throughput blockchain discussion.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://solana-defi-developers-hub.vercel.app/#solana-defi-developers-hub-forum-20261027-1-2026-11-18</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://solana-defi-developers-hub.vercel.app/#solana-defi-developers-hub-telegram-20261019-1-2026-10-19</guid>
       <pubDate>Mon, 19 Oct 2026 06:02:23 GMT</pubDate>
       <description>Newly verified community added to Solana DeFi &amp; Rust Developers Hub: Rapid market headlines, Federal Reserve rate decisions, treasury yields, and global commodity moves.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Stock Market Discord Hub (Discord)</title>
-      <link>https://discord.gg/stocks</link>
-      <guid isPermaLink="false">https://solana-defi-developers-hub.vercel.app/#solana-defi-developers-hub-discord-20261018-1-2026-10-18</guid>
-      <pubDate>Sun, 18 Oct 2026 06:02:30 GMT</pubDate>
-      <description>Newly verified community added to Solana DeFi &amp; Rust Developers Hub: Active market discord providing live voice trading rooms, technical chart analysis, and economic calendar feeds.</description>
     </item>
   </channel>
 </rss>
