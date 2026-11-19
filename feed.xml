@@ -4,10 +4,17 @@
     <title>Solana DeFi &amp; Rust Developers Hub</title>
     <link>https://solana-defi-developers-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Wed, 18 Nov 2026 07:23:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 06:04:52 GMT</lastBuildDate>
     <atom:link href="https://solana-defi-developers-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                    <item>
+      <title>📅 Today's Fresh Pick: r/SolanaMemeCoins Alpha &amp; Discussion (Reddit)</title>
+      <link>https://www.reddit.com/r/SolanaMemeCoins/</link>
+      <guid isPermaLink="false">https://solana-defi-developers-hub.vercel.app/#solana-defi-rust-developers-hub-reddit-2-2026-11-19</guid>
+      <pubDate>Thu, 19 Nov 2026 06:04:52 GMT</pubDate>
+      <description>Newly verified community added to Solana DeFi &amp; Rust Developers Hub: Dedicated forum for Solana memecoin trends, new token launches, liquidity pair analysis, and community tokenomics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/solana High-Speed Blockchain (Reddit)</title>
       <link>https://www.reddit.com/r/solana/</link>
       <guid isPermaLink="false">https://solana-defi-developers-hub.vercel.app/#solana-defi-rust-developers-hub-reddit-1-2026-11-18</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://solana-defi-developers-hub.vercel.app/#solana-defi-developers-hub-forum-20261020-1-2026-10-20</guid>
       <pubDate>Tue, 20 Oct 2026 06:03:19 GMT</pubDate>
       <description>Newly verified community added to Solana DeFi &amp; Rust Developers Hub: The gold standard forum for passive indexing, low-cost asset allocation, and Jack Bogle's investing philosophy.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Bloomberg Market Feed Channel (Telegram)</title>
-      <link>https://t.me/bloomberg</link>
-      <guid isPermaLink="false">https://solana-defi-developers-hub.vercel.app/#solana-defi-developers-hub-telegram-20261019-1-2026-10-19</guid>
-      <pubDate>Mon, 19 Oct 2026 06:02:23 GMT</pubDate>
-      <description>Newly verified community added to Solana DeFi &amp; Rust Developers Hub: Rapid market headlines, Federal Reserve rate decisions, treasury yields, and global commodity moves.</description>
     </item>
   </channel>
 </rss>
