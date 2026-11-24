@@ -4,10 +4,17 @@
     <title>Solana DeFi &amp; Rust Developers Hub</title>
     <link>https://solana-defi-developers-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Mon, 23 Nov 2026 06:45:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 07:32:31 GMT</lastBuildDate>
     <atom:link href="https://solana-defi-developers-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: r/dexscreener Real-Time Analytics (Reddit)</title>
+      <link>https://www.reddit.com/r/dexscreener/</link>
+      <guid isPermaLink="false">https://solana-defi-developers-hub.vercel.app/#solana-defi-rust-developers-hub-reddit-7-2026-11-24</guid>
+      <pubDate>Tue, 24 Nov 2026 07:32:31 GMT</pubDate>
+      <description>Newly verified community added to Solana DeFi &amp; Rust Developers Hub: Discussions on DEX chart analysis, token pair metrics, liquidity locks, volume tracking, and market trends.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/JupiterExchange DEX Aggregator Hub (Reddit)</title>
       <link>https://www.reddit.com/r/JupiterExchange/</link>
       <guid isPermaLink="false">https://solana-defi-developers-hub.vercel.app/#solana-defi-rust-developers-hub-reddit-6-2026-11-23</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://solana-defi-developers-hub.vercel.app/#solana-defi-developers-hub-discord-20261025-1-2026-10-25</guid>
       <pubDate>Sun, 25 Oct 2026 06:02:29 GMT</pubDate>
       <description>Newly verified community added to Solana DeFi &amp; Rust Developers Hub: Global discussion server for engineering disciplines, scientific methodology, and emerging tech.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/linux Open Source OS (Reddit)</title>
-      <link>https://www.reddit.com/r/linux/</link>
-      <guid isPermaLink="false">https://solana-defi-developers-hub.vercel.app/#solana-defi-developers-hub-reddit-20261024-1-2026-10-24</guid>
-      <pubDate>Sat, 24 Oct 2026 06:02:32 GMT</pubDate>
-      <description>Newly verified community added to Solana DeFi &amp; Rust Developers Hub: All aspects of the GNU/Linux operating system, kernel developments, desktop environments, and server administration.</description>
     </item>
   </channel>
 </rss>

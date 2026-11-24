@@ -1,5 +1,24 @@
 [
   {
+    "id": "solana-defi-rust-developers-hub-reddit-7",
+    "title": "r/dexscreener Real-Time Analytics",
+    "platform": "Reddit",
+    "category": "DEX Analytics",
+    "memberCount": "18,000+ members",
+    "description": "Discussions on DEX chart analysis, token pair metrics, liquidity locks, volume tracking, and market trends.",
+    "joinUrl": "https://www.reddit.com/r/dexscreener/",
+    "tags": [
+      "dexscreener",
+      "charts",
+      "analytics",
+      "trading"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-24"
+  },
+  {
     "id": "solana-defi-rust-developers-hub-reddit-6",
     "title": "r/JupiterExchange DEX Aggregator Hub",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-23"
   },
   {
@@ -853,24 +872,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "solana-defi-rust-developers-hub-reddit-7",
-    "title": "r/dexscreener Real-Time Analytics",
-    "platform": "Reddit",
-    "category": "DEX Analytics",
-    "memberCount": "18,000+ members",
-    "description": "Discussions on DEX chart analysis, token pair metrics, liquidity locks, volume tracking, and market trends.",
-    "joinUrl": "https://www.reddit.com/r/dexscreener/",
-    "tags": [
-      "dexscreener",
-      "charts",
-      "analytics",
-      "trading"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "id": "solana-defi-rust-developers-hub-reddit-8",
